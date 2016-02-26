@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bludger.jpg</file>
+        <file>images/cueball.jpg</file>
+        <file>images/dam.jpg</file>
+        <file>images/grass.jpg</file>
+        <file>images/gryf.jpg</file>
+        <file>images/huff.jpg</file>
+        <file>images/leg.jpg</file>
+        <file>images/quaffle.jpg</file>
+        <file>images/rave.jpg</file>
+        <file>images/rug.jpg</file>
+        <file>images/slyt.jpg</file>
+        <file>images/snitch.jpg</file>
+        <file>images/stick.jpg</file>
+        <file>images/wood.jpg</file>
+        <file>images/skybox_back.jpg</file>
+        <file>images/skybox_front.jpg</file>
+        <file>images/skybox_left.jpg</file>
+        <file>images/skybox_right.jpg</file>
+        <file>images/skybox_up.jpg</file>
+        <file>images/skybox_down.jpg</file>
+        <file>images/ground.jpg</file>
+    </qresource>
+</RCC>

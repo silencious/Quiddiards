@@ -12,7 +12,7 @@
 *.log
 *.pdb
 *.tlog
-
+*.db
 
 debug/
 GeneratedFiles/
